@@ -1,3 +1,4 @@
+<body>
     
 <h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">I'm a WEB DEVELOPER</h3>
@@ -41,13 +42,13 @@
 </p><br/>
 
 <h2 align="center">Stars</h2>
+<div align="center">
 <div style="width: 100%; display: flex; justify-content: center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv style="margin-right: 30px;"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" />
 </div>
-<div style="margin-left: 80px; margin-top: 20px;">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
@@ -59,3 +60,5 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dinith-mv&theme=github-light"/>
+
+</body>
