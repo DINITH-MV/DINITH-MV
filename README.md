@@ -1,7 +1,6 @@
 <body>
     
 <h1 align="center">Hi, I'm Dinith</h1>
-<h3 align="center">I'm a WEB DEVELOPER</h3>
 - 🔭 I’m currently working on <strong>Ceylon-Vibes</strong><br/>
 - 👯 I’m looking to collaborate on <strong>To-do-List</strong><br/>
 - 🌱 I’m currently learning <strong>Next JS</strong><br/>
