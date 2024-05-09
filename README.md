@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinisla</h1>
+<h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">I'm a WEB DEVELOPER</h3>
 - 🔭 I’m currently working on [Ceylon Vibes](thisLink)
 - 👯 I’m looking to collaborate on [To do List](thislink)
@@ -50,8 +50,6 @@
 <div align="center">
 <a href="https://github.com/dinith-mv">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinith-mv&theme=vue" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinith-mv&theme=vue" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinith-mv&theme=vue" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinith-mv&theme=vue" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinith-mv&theme=vue" height="180em" />
 </div>
