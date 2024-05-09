@@ -46,7 +46,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" />
 </div>
-<div style="text-align: center; margin-top: 20px;">
+<div style="margin-left: 80px; margin-top: 20px;">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
 </div>
 
