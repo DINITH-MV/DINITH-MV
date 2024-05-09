@@ -1,4 +1,4 @@
-   
+    
 <h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">I'm a WEB DEVELOPER</h3>
 - 🔭 I’m currently working on <strong>Ceylon-Vibes</strong><br/>
@@ -14,7 +14,7 @@
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center" >Languages and Tools</h2><br/>
 <p align="center">
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40" />
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -38,14 +38,17 @@
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+</p><br/>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv />
+<h2 align="center">Stars</h2>
+<div style="width: 100%; display: flex; justify-content: center;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv style="margin-right: 30px;"/>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" />
+</div>
+<div style="text-align: center; margin-top: 20px;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
