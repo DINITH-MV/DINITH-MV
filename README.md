@@ -7,7 +7,7 @@
 - 💬 Ask me about <strong>React</strong><br/>
 - 📫 How to reach me <strong>dinithmvanderlan@outlook.com</strong><br/>
 <br>
-<div> <a href="https://www.linkedin.com/in/thismyname"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/thismyname"  target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)" target="_blank"></a>
 <a href="https://github.com/dinith-mv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:dinithmvanderlan@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left" >Connect me with <a href="https://linkedin.com/in/thismyname" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="thismyname" height="18" width="24" /></a></h3>
@@ -18,14 +18,14 @@
 <p align="center">
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40" />
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img style="margin-right: 21px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="NodeJs" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img style="margin-right: 21px;" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUzNzM4OTAsIm5iZiI6MTcxNTM3MzU5MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEwVDIwMzk1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0ZmIyNTA4MWUzYWIwMDRkMGFlYzU0YWIzMWQ1ZTNmMTUyZjQyYzE5MDZmZjgyNWEyZDVhMzcyYmYzZmI4MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WBlRKiluKtxQIAs3t2dwuYFjyYO2DyCQ-mrubIg_7wg" alt="HTML" width="40" height="40"/>
+<img style="margin-right: 21px;" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUzNzM4OTAsIm5iZiI6MTcxNTM3MzU5MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEwVDIwMzk1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkM2VkMjcyMTg2OGFmNDJkZjdmZWUwNjE4MTIwMzdkZWVjZjRiZDg0ZjUyMWQxNTQ3ZDVmY2Q0MjFmOTM2NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.r46qLxETGkQ2vDj240_nqCDsIU6-chYUihRz9ilRXG8" alt="Css" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img style="margin-right: 21px;" src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUzNzM4OTAsIm5iZiI6MTcxNTM3MzU5MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEwVDIwMzk1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0M2M4NTkwZWYxZWIyMTg2MTQ5YmI5ZWZkMTNmNGZmZDUyM2NhNDlkYjVhZjI3MTkwNzgzNjc3MzU3NGUwNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XBLNjchEMspfO4uuc9cC43_Ibbsc92YE0oTPpNF9D5s" alt="C" width="40" height="40"/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <br/>
 <img style="margin-right: 21px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
@@ -44,11 +44,11 @@
 <h2 align="center">Stars</h2>
 <div align="center">
 <div style="width: 100%; display: flex; justify-content: center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=sunset-gradient" alt=dinith-mv/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=sunset-gradient" alt="dinith-mv" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" />
 </div>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=vue" alt="dinith-mv" />
 </div>
 <br/>
 
