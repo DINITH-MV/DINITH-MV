@@ -44,9 +44,9 @@
 <h2 align="center">Stars</h2>
 <div align="center">
 <div style="width: 100%; display: flex; justify-content: center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=vue" alt=dinith-mv/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&layout=compact&theme=sunset-gradient" alt=dinith-mv/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=vue" alt="dinith-mv" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&show_icons=true&locale=en&theme=sunset-gradient" alt="dinith-mv" />
 </div>
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinith-mv&theme=sunset-gradient" alt="dinith-mv" />
 </div>
