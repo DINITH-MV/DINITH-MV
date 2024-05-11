@@ -1,10 +1,12 @@
 <body>
-    <img  align="center" src="wave(2).svg" style="position: absolute;" target="_blank">
-<h1 align="center"  style="top: -30;">Hi, I'm Dinith</h1>    
+    <img  align="center" src="wave(1).svg" style="position: absolute;" target="_blank">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7A82E&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Dinith+Vanderlan!;" />
+</h1>
 - 🔭 I’m currently working on <strong>Ceylon-Vibes</strong><br/>
 - 👯 I’m looking to collaborate on <strong>To-do-List</strong><br/>
 - 🌱 I’m currently learning <strong>Next JS</strong><br/>
-- 💬 Ask me about <strong>React</strong><br/>
+- 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
 - 📫 How to reach me <strong>dinithmvanderlan@outlook.com</strong>
 <br>
 <div> <a href="https://www.linkedin.com/in/thismyname"  target="_blank"><img  align="center" src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" target="_blank"  height="90" width="120"></a>
