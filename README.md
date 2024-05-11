@@ -1,6 +1,6 @@
 <body>
-    
-<h1 align="center">Hi, I'm Dinith</h1>
+    <img  align="center" src="wave(2).svg" style="position: absolute;" target="_blank">
+<h1 align="center"  style="top: -30;">Hi, I'm Dinith</h1>    
 - 🔭 I’m currently working on <strong>Ceylon-Vibes</strong><br/>
 - 👯 I’m looking to collaborate on <strong>To-do-List</strong><br/>
 - 🌱 I’m currently learning <strong>Next JS</strong><br/>
