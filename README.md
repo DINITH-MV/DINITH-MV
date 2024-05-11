@@ -9,11 +9,13 @@
 - 🌱 I’m currently learning <strong>Next JS</strong><br/>
 - 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
 - 📫 How to reach me <strong>dinithmvanderlan@outlook.com</strong>
-<div> <a href="https://www.linkedin.com/in/thismyname"  target="_blank"><img  align="center" src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" target="_blank"  height="90" width="120"></a>
+<div>
+    <a href="dinithmvanderlan@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff5722"  align="center" />
+  </a></h3> 
 <a href="https://github.com/dinith-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  align="center" target="_blank" /></a>
- <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=fbe8be"  align="center" />
-  </a></h3>
+    <img  align="center" src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" target="_blank"  height="90" width="120">
+
 
 <h2 align="center" >Languages and Tools</h2><br/>
 <p align="center">
