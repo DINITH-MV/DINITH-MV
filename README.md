@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on <strong>Angular projects</strong><br/>
 - 🌱 I’m currently learning <strong>Next JS</strong><br/>
 - 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
-- 📫 How to reach me <strong>dinithmvanderlan@outlook.com</strong>
+- 📫 How to reach me <strong>dinithvanderlan@gmail.com</strong>
 <div>
     <a href="dinithmvanderlan@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff5722"  align="center" />
