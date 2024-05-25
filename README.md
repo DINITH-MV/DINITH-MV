@@ -18,9 +18,9 @@
 
 <h2 align="center" >Languages and Tools</h2><br/>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,postman,tailwind,figma,c,cpp,aws,vscode&theme=light" />
+ <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,postman,tailwind,figma,c,cpp,angular,vscode&theme=light" />
 <br/>
-<img src="https://skillicons.dev/icons?i=ai,ps,java,python,swift,php,mysql,firebase,kotlin,arduino,git,visualstudio,androidstudio&theme=light" />
+<img src="https://skillicons.dev/icons?i=ai,ps,java,python,ts,php,mysql,firebase,kotlin,arduino,git,visualstudio,androidstudio&theme=light" />
 </p><br/>
 
 <h2 align="center">Stars</h2>
