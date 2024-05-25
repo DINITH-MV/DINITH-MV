@@ -1,7 +1,7 @@
 <body>
     <img  align="center" src="wave(1).svg" style="position: absolute;" target="_blank">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7A82E&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+Welcome+to my+Github+profile;+I'm+Dinith+Vanderlan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7A82E&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+Welcome+to+my+Github+profile;+I'm+Dinith+Vanderlan!;" />
 </h1>
     
 - 🔭 I’m currently working on <strong>Angular projects</strong><br/>
