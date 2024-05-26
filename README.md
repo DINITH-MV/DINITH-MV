@@ -16,14 +16,14 @@
     <img  align="center" src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" target="_blank"  height="90" width="120">
 
 
-<h2 align="center" >Languages and Tools</h2><br/>
+<h2 align="center" >⚡Languages and Tools</h2><br/>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,postman,tailwind,figma,c,cpp,angular,vscode&theme=light" />
 <br/>
 <img src="https://skillicons.dev/icons?i=ai,ps,java,python,ts,php,mysql,firebase,kotlin,arduino,git,visualstudio,androidstudio&theme=light" />
 </p><br/>
 
-<h2 align="center">Stars</h2>
+<h2 align="center">⚡Stars</h2>
 <div align="center">
     <br/>
    
@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">⚡Statistics</h2>
 <br/>
 <div align="center">
     <div style="width: 100%; display: flex; justify-content: center;">
@@ -49,6 +49,6 @@
     </div>
 <br/>
 <h2 align="center">⚡Activity Graph</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dinith-mv&theme=github-light"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dinith-mv&theme=tokyo-day"/>
 
 </body>
