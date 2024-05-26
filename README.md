@@ -5,7 +5,8 @@
 </h1>
     
 - 🔭 I’m currently working on <strong>Angular projects</strong><br/>
-- 🌱 I’m currently learning <strong>Next JS</strong><br/>
+- 👯 I’m looking to collaborate on <strong>Next JS projects</strong><br/>
+- 🌱 I’m currently learning <strong>Angular</strong><br/>
 - 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
 - 📫 How to reach me <strong>dinithvanderlan@gmail.com</strong>
 <div>
