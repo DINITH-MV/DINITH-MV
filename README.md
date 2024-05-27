@@ -27,13 +27,17 @@
 <h2 align="center">⚡Stars</h2>
 <div align="center">
     <br/>
-   
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&hide_border=true&show_icons=true&locale=en&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=20,eba94c,fad87e,fced9c&show_icons=true" alt=dinith-mv/>
+   <div style="width: 100%; display: flex; justify-content: center;">
+
+ <img height="177.8em" src="https://github-readme-stats.vercel.app/api?username=dinith-mv&hide_border=true&border_radius=4.7&show_icons=true&locale=en&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=20,eba94c,fad87e,fced9c&show_icons=true" alt=dinith-mv/>
+ <img height="177.8em" width="325em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&hide_border=true&layout=compact&height=400&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=10,db9663,efd0b9&show_icons=true" alt=dinith-mv/>
+ </div>
+
 <div style="width: 100%; display: flex; justify-content: center;">
     
-<img height="280em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&hide_border=true&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=10,24d84e,70e04a,e2ed43&show_icons=true" alt=dinith-mv/>
+<img height="320em" width="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&hide_border=true&layout=donut-vertical&height=400&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=10,2edca4,8dfd6b&show_icons=true" alt=dinith-mv/>
 
-<img height="180em" align="top" src="https://streak-stats.demolab.com?user=dinith-mv&hide_border=true&card_width=520&border_radius=4.7&background=45%2CCCCAFB%2CF3B6E2&ring=89066E&fire=89066EAD&currStreakLabel=75047C&currStreakNum=700A89BC&sideNums=07013CD0" alt="dinith-mv" />
+<img height="180em" align="top" src="https://streak-stats.demolab.com?user=dinith-mv&hide_border=true&card_width=515&border_radius=4.7&background=45%2CCCCAFB%2CF3B6E2&ring=89066E&fire=89066EAD&currStreakLabel=75047C&currStreakNum=700A89BC&sideNums=07013CD0" alt="dinith-mv" />
 </div>
 
 </div>
