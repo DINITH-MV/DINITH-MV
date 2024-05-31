@@ -1,5 +1,5 @@
 <body>
-    <img  align="center" src="profile3.png" style="position: absolute;" target="_blank">
+    <img  align="center" src="profile1.png" style="position: absolute;" target="_blank">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Amita&color=bb9071&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+Hey+There!;I'm+Dinith+Vanderlan!;Welcome+to+my+Github+profile!;" />
 </h1>
