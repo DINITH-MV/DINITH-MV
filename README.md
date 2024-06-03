@@ -10,7 +10,7 @@
 - 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
 - 📫 How to reach me <strong>dinithvanderlan@gmail.com</strong>
 <div>
-    <a href="dinithmvanderlan@outlook.com">
+    <a href="dinithvanderlan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff5722"  align="center" />
   </a></h3> 
 <a href="https://github.com/dinith-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  align="center" target="_blank" /></a>
