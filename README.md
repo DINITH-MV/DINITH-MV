@@ -13,8 +13,8 @@
     <a href="dinithvanderlan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff6c37"  align="center" />
   </a>
-<a href="https://github.com/dinith-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  align="center" target="_blank" /></a>
-<a href="https://github.com/dinith-mv" target="_blank">    <img src="https://img.shields.io/badge/gitlab-f54a2f?style=for-the-badge&logo=gitlab&logoColor=white"  align="center" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/dinith-vanderlan-397218308" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  align="center" target="_blank" /></a>
+<a href="https://gitlab.com/DINITH_MV" target="_blank">    <img src="https://img.shields.io/badge/gitlab-f54a2f?style=for-the-badge&logo=gitlab&logoColor=white"  align="center" target="_blank" /></a>
 </div>
 
 
