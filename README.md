@@ -11,10 +11,11 @@
 - 📫 How to reach me <strong>dinithvanderlan@gmail.com</strong>
 <div>
     <a href="dinithvanderlan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff5722"  align="center" />
-  </a></h3> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=ff6c37"  align="center" />
+  </a>
 <a href="https://github.com/dinith-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  align="center" target="_blank" /></a>
-    <img  align="center" src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" target="_blank"  height="90" width="120">
+<a href="https://github.com/dinith-mv" target="_blank">    <img src="https://img.shields.io/badge/gitlab-f54a2f?style=for-the-badge&logo=gitlab&logoColor=white"  align="center" target="_blank" /></a>
+</div>
 
 
 <h2 align="center" >⚡Languages and Tools</h2><br/>
