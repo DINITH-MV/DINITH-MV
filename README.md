@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Amita&color=bb9071&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+Hey+There!;I'm+Dinith+Vanderlan!;Welcome+to+my+Github+Profile!;" />
 </h1>
     
-- 🔭 I’m currently working on <strong>Angular projects</strong><br/>
-- 👯 I’m looking to collaborate on <strong>Next JS projects</strong><br/>
+- 🔭 I’m currently working on <strong>NEXT.JS projects</strong><br/>
+- 👯 I’m looking to collaborate on <strong>Angular projects</strong><br/>
 - 🌱 I’m currently learning <strong>Angular</strong><br/>
 - 💬 Ask me about <strong>React,Tailwind CSS</strong><br/>
 - 📫 How to reach me <strong>dinithvanderlan@gmail.com</strong>
