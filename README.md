@@ -49,7 +49,7 @@
 <div align="center">
     <div style="width: 100%; display: flex; justify-content: center;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinith-mv&theme=solarized" height="185em" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinith-mv&utcOffset=5.30&theme=solarized" height="185em" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinith-mv&utcOffset=10.00&theme=solarized" height="185em" />
     </div>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinith-mv&theme=swift" height="180em" width="100%" />
     </div>
