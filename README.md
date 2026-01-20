@@ -18,14 +18,14 @@
 </div>
 
 
-<h2 align="center" >⚡Languages and Tools</h2><br/>
+<h2 align="center" >Languages and Tools</h2><br/>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,postman,tailwind,figma,c,cpp,vscode,html,css&theme=light" />
 <br/>
 <img src="https://skillicons.dev/icons?i=gitlab,ps,java,python,php,mysql,angular,firebase,kotlin,arduino,git,visualstudio,androidstudio&theme=light" />
 </p><br/>
 
-<h2 align="center">⚡Stars</h2>
+<h2 align="center">Stars</h2>
 <div align="center">
     <br/>
    <div style="width: 100%; display: flex; justify-content: center;">
@@ -38,13 +38,13 @@
     
 <img height="320em" width="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinith-mv&hide_border=true&layout=donut-vertical&height=400&title_color=ffffff&text_color=000000&icon_color=288e28&bg_color=10,2edca4,8dfd6b&show_icons=true" alt=dinith-mv/>
 
-<img height="180em" align="top" src="https://streak-stats.demolab.com?user=dinith-mv&hide_border=true&card_width=515&border_radius=4.7&background=45%2CCCCAFB%2CF3B6E2&ring=89066E&fire=89066EAD&currStreakLabel=75047C&currStreakNum=700A89BC&sideNums=07013CD0" alt="dinith-mv" />
+<!-- <img height="180em" align="top" src="https://streak-stats.demolab.com?user=dinith-mv&hide_border=true&card_width=515&border_radius=4.7&background=45%2CCCCAFB%2CF3B6E2&ring=89066E&fire=89066EAD&currStreakLabel=75047C&currStreakNum=700A89BC&sideNums=07013CD0" alt="dinith-mv" /> -->
 </div>
 
 </div>
 <br/>
 
-<h2 align="center">⚡Statistics</h2>
+<h2 align="center">Statistics</h2>
 <br/>
 <div align="center">
     <div style="width: 100%; display: flex; justify-content: center;">
