@@ -61,6 +61,6 @@
     </div>
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Amita&color=fa5f53&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;see+ya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Amita&color=a5a5a4&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting,+see+ya!;" />
 </h1>
 </body>
